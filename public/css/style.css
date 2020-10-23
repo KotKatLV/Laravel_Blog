@@ -1,0 +1,33 @@
+body {
+    background: #fff;
+}
+
+nav {
+    margin-bottom: 15px;
+}
+.card {
+    margin-bottom: 10px;
+}
+
+.card-img {
+    height: 200px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-img .card_author {
+    margin-bottom: 10px;
+}
+.card-img__max {
+    height: 500px;
+}
+
+.card-btn {
+    display: flex;
+}
+
+.card-btn a {
+    margin-right: 10px;
+}
+
